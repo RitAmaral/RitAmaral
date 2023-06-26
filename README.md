@@ -8,7 +8,6 @@
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ana-rita-amaral-5159b6242/" target="_blank">
-  <!-- <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> -->
   <img alt="Rita's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   <a href="https://instagram.com/anaritamaral" target="_blank">
   <img alt="Rita's instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -41,6 +40,12 @@ This learning experience has been incredible, and I am truly passionate about ex
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitAmaral&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=RitAmaral&style=flat-square&color=blue" alt=""/>
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/l396M3jF14DXr9mog/giphy.gif" width="150"/>
+</div>
+
 
 <!--
 **RitAmaral/RitAmaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

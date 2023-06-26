@@ -39,9 +39,13 @@ This learning experience has been incredible, and I am truly passionate about ex
 
 ### 📈 My GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitAmaral&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitAmaral&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://komarev.com/ghpvc/?username=RitAmaral&style=flat-square&color=blue" alt=""/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RitAmaral&theme=dracula&mode=weekly)](https://git.io/streak-stats)
+
+<!-- ![Rita's GitHub stats](https://github-readme-stats.vercel.app/api?username=RitAmaral&show_icons=true&theme=dracula) -->
+
+<img src="https://komarev.com/ghpvc/?username=RitAmaral&style=flat-plastic&color=ff69b4" alt="ProfileViews"/>
 
 ---
 

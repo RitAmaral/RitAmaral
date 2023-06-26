@@ -9,6 +9,8 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ana-rita-amaral-5159b6242/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://instagram.com/anaritamaral" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 
@@ -33,7 +35,7 @@ This learning experience has been incredible, and I am truly passionate about ex
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats:
+### 📈 My GitHub Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitAmaral&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 

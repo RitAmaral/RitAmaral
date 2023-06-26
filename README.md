@@ -35,12 +35,15 @@ This learning experience has been incredible, and I am truly passionate about ex
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
 ### 📈 My GitHub Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitAmaral&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=RitAmaral&style=flat-square&color=blue" alt=""/>
 
+---
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/l396M3jF14DXr9mog/giphy.gif" width="150"/>

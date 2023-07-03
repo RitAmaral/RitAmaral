@@ -51,6 +51,8 @@ This learning experience has been incredible, and I am truly passionate about ex
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RitAmaral&theme=dracula&mode=weekly)](https://git.io/streak-stats)
 
+<!-- [![Rita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RitAmaral&theme=dracula)](https://github.com/RitAmaral/github-readme-activity-graph) -->
+
 <!-- ![Rita's GitHub stats](https://github-readme-stats.vercel.app/api?username=RitAmaral&show_icons=true&theme=dracula) -->
 
 <img src="https://komarev.com/ghpvc/?username=RitAmaral&style=flat-plastic&color=ff69b4" alt="ProfileViews"/>

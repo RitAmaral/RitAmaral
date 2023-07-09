@@ -8,12 +8,12 @@
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ana-rita-amaral-5159b6242/" target="_blank">
-  <img alt="Rita's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Rita's LinkedIN" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
   <a href="https://instagram.com/anaritamaral" target="_blank">
   <img alt="Rita's instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </div>
 
-
+https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg
 
 My name is **Rita** 😁, I'm currently enrolled in a training program called **Software Developer** 📖💻, where I am building my theoretical knowledge and technical skills necessary to enter the professional job market in the field of Web and Mobile Programming.
 

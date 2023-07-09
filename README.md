@@ -13,8 +13,6 @@
   <img alt="Rita's instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </div>
 
-https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg
-
 My name is **Rita** 😁, I'm currently enrolled in a training program called **Software Developer** 📖💻, where I am building my theoretical knowledge and technical skills necessary to enter the professional job market in the field of Web and Mobile Programming.
 
 During this program, I have been exposed to various software architectures, such as the *Model-View-Controller* pattern, and have gained hands-on experience with databases like *MySQL*. Additionally, I have been actively learning client-side technologies such as *HTML*, *CSS*, and *JavaScript*, as well as server-side web platforms like *PHP Laravel*. In the realm of mobile app development, I have been working with *Kotlin* 📱.

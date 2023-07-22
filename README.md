@@ -15,7 +15,7 @@
 
 My name is **Rita** 😁, I'm currently enrolled in a training program called **Software Developer** 📖💻, where I am building my theoretical knowledge and technical skills necessary to enter the professional job market in the field of Web and Mobile Programming.
 
-During this program, I have been exposed to various software architectures, such as the *Model-View-Controller* pattern, and have gained hands-on experience with databases like *MySQL*. Additionally, I have been actively learning client-side technologies such as *HTML*, *CSS*, and *JavaScript*, as well as server-side web platforms like *PHP Laravel*. In the realm of mobile app development, I have been working with *Kotlin* 📱.
+During this program, I have been exposed to various software architectures, such as the *Model-View-Controller* pattern, and have gained hands-on experience with databases like *MySQL*. Additionally, I have been actively learning client-side technologies such as *HTML*, *CSS*, and *JavaScript*, as well as server-side web platforms like *PHP Laravel*. In the realm of mobile app development, I have been working with *Kotlin* and *Swift* 📱.
 
 This learning experience has been incredible, and I am truly passionate about exploring the vast world of programming. I'm excited to continue expanding my knowledge and skills in order to contribute to innovative projects in the future.
 
@@ -30,15 +30,17 @@ This learning experience has been incredible, and I am truly passionate about ex
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="Csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="PHP" title="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  
+
 </div>
 
 ---
@@ -49,7 +51,7 @@ This learning experience has been incredible, and I am truly passionate about ex
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RitAmaral&theme=dracula&mode=weekly)](https://git.io/streak-stats)
 
-[![Rita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RitAmaral&theme=dracula)](https://github.com/RitAmaral/github-readme-activity-graph)
+<!-- [![Rita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RitAmaral&theme=dracula)](https://github.com/RitAmaral/github-readme-activity-graph) -->
 
 <!-- ![Rita's GitHub stats](https://github-readme-stats.vercel.app/api?username=RitAmaral&show_icons=true&theme=dracula) -->
 
